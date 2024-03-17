@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+table {
+            font-family: "Monotype Corsiva", cursive;
+        }
+
+        /* You can also target specific elements within the table */
+        th, td {
+            font-family: "Monotype Corsiva", cursive;
+        }
+</style>
+</head>
+<style>
+    body {
+        font-family: "Monotype Corsiva", cursive;
+        background-image: url('img.avif');
+        background-size: cover; 
+       
+      }
+    </style>
+  <p>Translate this page:</p>
+
+  <div id="google_translate_element"></div>
+  
+  <script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+  }
+  </script>
+  
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<table>
+  <tr>
+  <th>Symptoms</th>
+    <th>Medicines</th>
+    <th>Dosage</th>
+    <th>Morning</th>
+    <th>Afternoon</th>
+    <th>Night</th>
+  </tr>
+  <tr>
+    <td>Asrigdara(Heavy Periods)</td>
+    <td>Ashokarishta</td>
+    <td>30-60ml</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1</td>
+  </tr>
+  </table>
+
+</body>
+</html>

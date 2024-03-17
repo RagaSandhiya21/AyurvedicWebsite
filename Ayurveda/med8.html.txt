@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Stores in Pune</title>
+</head>
+<style>
+    body {
+        font-family: "Monotype Corsiva", cursive;
+        background-image: url('img.avif');
+        background-size: cover; 
+       
+      }
+    </style>
+    <p>Translate this page:</p>
+
+    <div id="google_translate_element"></div>
+    
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+    </script>
+    
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <h2>1.PRACHIN AYURVEDIC & PANCHAKARMA</h2> 
+    <h3>Address:</h3>
+    <p>307, 3rd Floor, Undri City Center Mall, above HDFC Bank, Bellagio, Undri, Pune, Maharashtra 411060</p>
+    <h3>Contact:</h3>
+    <p>Phone:098233 99285</p>
+
+    <h2>2.Kayastha Ayurvedic</h2> 
+    <h3>Address:</h3>
+    <p>CHAMANLAL COMPLEX, ABOVE BANK OF MAHARASHTRA, 3RD FLOOR OPP SANTOSH HALL, Sinhgad Rd, Pune, Maharashtra 411051</p> 
+    <h3>Contact:</h3> 
+    <p>Phone: 097649 95542</p>
+
+    <h2>3.Dharmadhikari Ayurveda</h2> 
+    <h3>Address:</h3>
+    <p>Guruganesh Commercial Complex, Office 23-26, 3rd floor, DP Rd, above Pusad Urban Bank, Guruganesh Nagar, Kothrud, Pune, Maharashtra 411038</p>
+    <h3>Contact:</h3>
+    <p>Phone: 073504 45566</p>
+
+    <h2>4.Ojas Ayurveda</h2> 
+    <h3>Address:</h3>
+    <p> 5, Upendra - 1 Society Padalkar Hospital Lane, opp. Hotel Nisarg, Padalkar, Nal Stop, Pune, Maharashtra 411004</p>
+    <p>Phone:098901 43920 </p>
+
+    <h2>5.Ayurveda Therapies</h2> 
+    <h3>Address:</h3>
+    <p>Shop No 4, Suvrnsmruti Building, Wing A, Baner Rd, near Pantaloons, Baner, Pune, Maharashtra 411045</p>
+    <h3>Contact:</h3>
+    <p>Phone:  090495 22327</p>
+
+</body>
+</html>

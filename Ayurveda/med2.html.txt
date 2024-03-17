@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical in Tiruppur</title>
+</head>
+<style>
+    body {
+        font-family: "Monotype Corsiva", cursive;
+        background-image: url('img.avif');
+        background-size: cover; 
+       
+      }
+    </style>
+    <p>Translate this page:</p>
+
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <h2>1.Malabar Ayurvedha Vaidhyasalai</h2> 
+    <h3>Address</h3>
+    <p>38QX+GGF, R.V.E Layout Main Street, Tiruppur - Palladam Rd, Kattuvalavu, Tiruppur, Tamil Nadu 641604</p>
+    <h3>Contact</h3>
+    <p>Phone: 073732 98554</p>
+
+    <h2>2.Vaidyaratnam</h2> 
+    <h3>Address</h3>
+    <p> No 657, Palladam Road, opposite to old collector office, Tamil Nadu 641604</p>
+    <h3>Contact</h3>
+    <p>Phone: 09365844328</p>
+
+    <h2>3.Sri Gayathri Devi Stores</h2> 
+    <h3>Address</h3>
+    <p>179, Eswaran Kovil St, opp. Tiruppur, Karuvampalayam, Tiruppur, Tamil Nadu 641604</p>
+    <h3>Contact</h3>
+    <p>Phone: 099947 74755</p>
+
+
+</body>
+</html>

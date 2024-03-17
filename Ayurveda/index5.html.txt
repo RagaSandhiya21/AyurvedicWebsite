@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+table {
+            font-family: "Monotype Corsiva", cursive;
+        }
+        th, td {
+            font-family: "Monotype Corsiva", cursive;
+        }
+</style>
+</head>
+<style>
+body {
+  font-family: "Monotype Corsiva", cursive;
+  background-image: url('img.avif');
+  background-size: cover; 
+ 
+}
+</style>
+<p>Translate this page:</p>
+
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<h2>Diet Plans</h2>
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Diet and Exercises</th>
+ </tr>
+
+  <tr>
+  <td>WAKE UP- 5:30 AM</td>
+  <td>Mix 2 glasses of lukewarm water with 1 Tsp Ginger juice all together, drink
+    it empty stomach. Walk for 5 to 10 min. Then do daily routine work like
+    going the toilet, brushing teeth etc.</td>
+  </tr>
+
+  <tr>
+  <td>WALKING IN THE MORNING - 6:30 AM to 7:00 AM</td>
+  <td>Brisk Walking should be done Daily </td>
+  </tr>
+
+  <tr>
+  <td>BREAKFAST- 7:30AM</td>
+  <td>FRUIT or GREEN LEAFY VEGETABLE SALAD (Only one Variety of Fruit to be
+    taken at a Time) </td>
+  </tr>
+
+  <tr>
+  <td>MORNING 10 AM</td>
+  <td>1 Tomato + 1 Cucumber + 1 Bitter gourd + 10 Neem Leaves + 10 Tulsi
+    Leaves Put in a mixer Grinder, take out Juice and consume it after filtering
+    it.</td>
+  </tr>
+
+  <tr>
+  <td>LUNCH- 1:00 PM To 1:30 PM</td>
+  <td> ROTI/SAMBHAR/SABJI / DAL/NORMAL VEGETERIAN FOOD TO BE TAKEN</td>
+  </tr>
+
+  <tr>
+  <td>EVENING 4:00 PM</td>
+  <td>ALEOVERA JUICE (4 Tsp)/ AMLA JUICE (4 Tsp) / METHI POWDER (1/2 Tsp) /
+    JEERA POWDER (1/2 Tsp) /AJWAIN POWDER (1/2 Tsp)/ BLACK PEPPER
+    POWDER (1/8 Tsp) with 1/2 Cup of Lukewarm water. </td>
+  </tr>
+
+  <tr>
+  <td>DINNER- 7:00 PM to 7:30 PM</td>
+  <td>VEGETABLE SOUP/STEAMED VEGETABLE/SPROUTS / STEAMED FOOD (IDLI,
+    DOSA, UPMA)
+    (Method of Preparation Of Vegetable SOUP)
+    2 Glass of cut/Chopped Vegetable + 6 Glasses of Water in a vessel, add
+    pinch of salt and pepper for taste, Boil and reduce to 2 glass, filter it, intake
+    the soup.
+    (Do not squeeze vegetable, discard the vegetable after filtration). </td>
+  </tr>
+ 
+  <tr>
+    <td>SLEEP-10PM</td>
+    <td>6-8 HOURS OF SLEEP</td>
+  </tr>
+</table>
+
+</body>
+</html>

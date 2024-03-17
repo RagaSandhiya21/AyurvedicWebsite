@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical in Erode</title>
+</head>
+<style>
+    body {
+        font-family: "Monotype Corsiva", cursive;
+        background-image: url('img.avif');
+        background-size: cover; 
+       
+      }
+    </style>
+    <p>Translate this page:</p>
+
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <h2>1.S.G Siddha Medicine</h2> 
+    <h3>Address</h3>
+    <p>8PR8+9QR, Nasiyanur Rd, Municipal Colony, Edayankattuvalasu, Erode, Tamil Nadu 638009</p>
+    <h3>Contact</h3>
+    <p>Phone: 98658 84332</p>
+
+    <h2>2.Kaviraj Siddha & Ayurveda Pharmacy</h2> 
+    <h3>Address</h3>
+    <p>Bus Stand Complex, 39, New commercial, Sathy Rd, Erode, Tamil Nadu 638003</p>
+    <h3>Contact</h3>
+    <p>Phone: 9843181500</p>
+
+    <h2>3.Sri Dhanwandri siddha ayurvedha medicals</h2> 
+    <h3>Address</h3>
+    <p>Erode Fort, Erode, Tamil Nadu 638001</p>
+    <h3>Contact</h3>
+    <p>Phone: 04242261352</p>
+
+    <h2>4.Agathiyar Siddha Hospital</h2> 
+    <h3>Address</h3>
+    <p>17, LIC Nagar Main Street , Inside LIC Arch, Moolapalayam, Erode, Tamil Nadu 638002</p>
+    <h2>Contact</h2>
+    <p>Phone: 9994922222</p>
+
+
+</body>
+</html>

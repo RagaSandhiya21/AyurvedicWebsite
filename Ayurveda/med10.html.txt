@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Stores in Bangalore</title>
+</head>
+<style>
+    body {
+        font-family: "Monotype Corsiva", cursive;
+        background-image: url('img.avif');
+        background-size: cover; 
+       
+      }
+    </style>
+    <p>Translate this page:</p>
+
+    <div id="google_translate_element"></div>
+    
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+    </script>
+    
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <h2>1.Dhanvantralaya Ayurvedic Medicines Bangalore</h2> 
+    <h3>Address:</h3>
+    <p>117, Old Madras Rd, opp. venkateshwara temple, Halasuru, Lingayana Palya, Bengaluru, Karnataka 560008</p>
+    <h3>Contact:</h3>
+    <p>Phone: 093426 05788</p>
+
+    <h2>2.SADAAYU AYURVEDA Panchakarma & Wellness Centre</h2> 
+    <h3>Address:</h3>
+    <p>#237, 9th A main, 2nd cross vijaynagar bangalore 560040, Bengaluru, Karnataka 560040</p> 
+    <h3>Contact:</h3> 
+    <p>Phone: 094480 50335</p>
+
+    <h2>3.AyurCentral Indiranagar</h2> 
+    <h3>Address:</h3>
+    <p> 100/2 2nd Main Road 10th Cross, Canara Bank Road, Indira Nagar 1st Stage, Bengaluru, Karnataka 560038</p>
+    <h3>Contact:</h3>
+    <p>Phone: 096112 24123</p>
+
+    <h2>4.SHARMA AYURVED BHAWAN</h2> 
+    <h3>Address:</h3>
+    <p> 124, 3rd Main Road, Nagendra Block, 9th Cross Rd, SBM Colony, Banashankari 1st Stage, Bengaluru, Karnataka 560050</p>
+    <h3>Contact:</h3>
+    <p>Phone: 073491 48822</p>
+
+    <h2>5.Shree Evergreen Ayurvedic Centre</h2> 
+    <h3>Address:</h3>
+    <p>No:20, Idhaya Complex, Opposite Michael's Post, Geddalahalli St. Michael's High School, Hennur Bagalur Main Rd, Kothanur, Bengaluru, Karnataka 560077</p>
+    <h3>Contact:</h3>
+    <p>Phone:  092414 63049</p>
+
+</body>
+</html>

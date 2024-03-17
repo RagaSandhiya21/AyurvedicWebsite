@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Children below 12</title>
+    <style>
+        /* Internal CSS */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+        }
+
+        #search-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        #search-input {
+            flex-grow: 1;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        #search-button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-left: 10px;
+        }
+
+        #voice-button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-left: 10px;
+        }
+
+        #search-results {
+            margin-top: 10px;
+        }
+
+        .search-result-item {
+            margin: 5px 0;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<style>
+    body {
+        font-family: "Monotype Corsiva", cursive;
+        background-image: url('img.avif');
+        background-size: cover; 
+       
+      }
+    </style>
+    <p>Translate this page:</p>
+
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="Search..." />
+        <button id="search-button">Search</button>
+        <button id="voice-button">Voice Search</button>
+    </div>
+    <div id="search-results"></div>
+
+    <script>
+        // Internal JavaScript
+        const searchInput = document.getElementById('search-input');
+        const searchButton = document.getElementById('search-button');
+        const voiceButton = document.getElementById('voice-button');
+        const searchResults = document.getElementById('search-results');
+
+        const searchItems = [
+            { term: 'Jwara Roga(Fever),Jeerna(Indigestion)', href: 'dis1.html' },
+            { term: 'Vibandha(Constipation)', href: 'dis2.html' },
+            { term: 'Kandu(itching),Kushta Roga(skin illness)', href: 'dis3.html' },
+            { term: 'Pratishyaya(Cold)', href: 'dis4.html' },
+            { term: 'Atisaaram(Diarrhea)', href: 'dis5.html' },
+            { term: 'Mutrakriccha(Difficulty in passing urine)', href: 'dis6.html' },
+            { term: 'Krimi(Worm Infestation)', href: 'dis7.html' },
+            { term: 'Kamala vyadhi(Jaundice)', href: 'dis8.html' },
+            { term: 'Gulma(Abdominal Tumor)', href: 'dis9.html' },
+            { term: 'Apasmara(forgetfullness),Unmada(Mental Disorder)', href: 'dis10.html' },
+
+        ];
+
+        // Function to perform a text search
+        function performTextSearch() {
+            const query = searchInput.value.trim().toLowerCase();
+            const matchingItems = searchItems.filter(item =>
+                item.term.toLowerCase().includes(query)
+            );
+
+            if (matchingItems.length === 0) {
+                searchResults.innerHTML = 'No matching results.';
+            } else {
+                searchResults.innerHTML = '';
+                matchingItems.forEach(item => {
+                    const resultItem = document.createElement('div');
+                    resultItem.className = 'search-result-item';
+                    const link = document.createElement('a');
+                    link.href = item.href;
+                    link.textContent = item.term;
+                    resultItem.appendChild(link);
+                    searchResults.appendChild(resultItem);
+                });
+            }
+        }
+
+        // Event listener for the search button
+        searchButton.addEventListener('click', performTextSearch);
+
+        // Check if the browser supports the Web Speech API
+        if ('webkitSpeechRecognition' in window) {
+            const recognition = new webkitSpeechRecognition();
+
+            // Set recognition options
+            recognition.continuous = false;
+            recognition.interimResults = false;
+            recognition.lang = 'en-US'; // Set the language
+
+            // Event handler for the end of speech recognition
+            recognition.onresult = function (event) {
+                const result = event.results[0][0].transcript;
+                searchInput.value = result;
+                performTextSearch();
+            };
+
+            // Event handler for errors
+            recognition.onerror = function (event) {
+                console.error('Speech recognition error:', event.error);
+            };
+
+            // Event handler for the voice button click
+            voiceButton.addEventListener('click', function () {
+                recognition.start();
+            });
+        } else {
+            console.log('Web Speech API not supported in this browser.');
+        }
+    </script>
+</body>
+</html>

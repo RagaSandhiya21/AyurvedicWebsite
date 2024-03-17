@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {
+            font-family: "Monotype Corsiva", cursive;
+            background-image: url('img.avif');
+            background-size: cover; 
+           
+          }
+        </style>
+<h1>Psoriasis</h1>
+<h2>Psoriasis Ayurvedic Treatment</h2>
+<p>Psoriasis is auto-immune disorder. This means it occurs when body’s own
+    immune system attacks the healthy cells causing its rapid growth. The body does
+    not shed these excess skin cells causing build-up of skin layers, Due to
+    accelerated life cycle of cells, new skin cells are formed in days rather than
+    weeks
+    
+    The red, scaly patches, papules, and itching plaques are the most peculiar
+    Psoriasis symptoms. The skin lesions seen in Psoriasis may vary in severity and
+    can be seen as small localized patches to complete body coverage. In people
+    with Psoriasis the skin cells are replaced every 3 to 5 days unlike normal skin
+    when the cells are replaced after 28 to 30 days.
+    
+</p>
+<h2>Symptoms of Psoriasis</h2>
+<p>Psoriasis patches can range from a few spots of scaly patches to major
+    eruptions that cover large areas of the body. The main symptom of Psoriasis
+    is red or silver scaly patches caused due to excessive division of the cells in
+    the basal layers of the skin. These silver or red scaly patches often cause
+    severe itching and dryness of the skin. Each type of Psoriasis may show
+    different symptoms as given below:
+    <ul>
+    <li>Plaque Psoriasis-Patches of raised, reddish skin covered by
+        silvery-white scale</li>
+   <li>Guttate Psoriasis-Small, red spots on the skin</li>
+    <li>Psoriatic Arthritis-Inflammation of the joints</li>
+    <li>Inverse Psoriasis-Smooth, red lesions formed in skin folds</li>
+    <li>Erythrodermic Psoriasis – widespread redness, severe itching, and
+        pain</li>
+</ul>
+</p>
+
+</body>
+</html>

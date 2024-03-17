@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Stores in Hyderabad</title>
+</head>
+<style>
+    body {
+        font-family: "Monotype Corsiva", cursive;
+        background-image: url('img.avif');
+        background-size: cover; 
+       
+      }
+    </style>
+    <p>Translate this page:</p>
+
+    <div id="google_translate_element"></div>
+    
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+    </script>
+    
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <h2>1.Fort Ayurveda</h2> 
+    <h3>Address:</h3>
+    <p>Calvathy Rd, near Coast Gaurd, Fort Kochi, Kochi, Kerala 682001</p>
+    <h3>Contact:</h3>
+    <p>Phone:0484 221 7103</p>
+
+    <h2>2.Ananda Ayurveda</h2> 
+    <h3>Address:</h3>
+    <p>Ridsdale branch road, CRWA Lane No. 4, near njaliparambu junction, Fort Kochi, Kochi, Kerala 682001</p> 
+    <h3>Contact:</h3> 
+    <p>Phone: 080896 28123</p>
+
+    <h2>3.Kerala Ayurvedic Clinic</h2> 
+    <h3>Address:</h3>
+    <p>X78Q+639, A M Thomas Rd, Pallimukku, Ernakulam, Kerala 682016</p>
+    <h3>Contact:</h3>
+    <p>Phone: 0484 237 5292</p>
+
+    <h2>4.Arogya Ayurvedic Centre</h2> 
+    <h3>Address:</h3>
+    <p> Ravipuram Rd, Ravipuram, Perumanoor, Kochi, Ernakulam, Kerala 682016
+    <p>Phone:0484 402 9198 </p>
+
+    <h2>5.Cochin Arya Vaidya Sala</h2> 
+    <h3>Address:</h3>
+    <p>Shanmugam Road,Opposite Bay Pride Mall, Kochi, Kerala 682031</p>
+    <h3>Contact:</h3>
+    <p>Phone:   090727 37678</p>
+
+</body>
+</html>

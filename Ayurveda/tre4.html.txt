@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {
+            font-family: "Monotype Corsiva", cursive;
+            background-image: url('img.avif');
+            background-size: cover; 
+           
+          }
+        </style>
+<h1>Arthritis</h1>
+<h2>Treatment for arthritis</h2>
+<p>Different types of arthritis are treated by different medications. Some arthritis medications aim to
+    reduce pain and inflammation. Others work on the disease process itself and aim to slow down or
+    stop damage to the joints.
+    The medications your doctor prescribes will depend on your type of arthritis and the severity of your
+    symptoms.
+    Let your doctor know about any other medications or treatments you're taking - even if you've
+    purchased them from a supermarket, health store or complementary therapist (such as a naturopath
+    or homeopath).
+    The most common types of medications used to treat arthritis include:
+    <ul>
+        <li>pain-relieving medications (analgesics, such as paracetamol)-can provide temporary pain
+            relief</li>
+        <li>creams and ointments- can be rubbed into the skin over a painful joint to provide temporary
+            pain relief</li>
+        <li>non-steroidal anti-inflammatory medications (NSAIDs) -to control inflammation and provide
+            pain relief</li>
+        <li>corticosteroids - to quickly control or reduce inflammation</li>
+        <li>disease-modifying anti-rheumatic medications (DMARDs)-control your overactive immune
+            system</li>
+        
+    </ul>
+</p>
+<h2>Symptoms of arthritis</h2>
+<p>Arthritis affects people in different ways and each condition will have specific symptoms. However,
+    common symptoms are:
+    <ul>
+    <li>pain</li>
+   <li>swelling, redness and warmth in a joint</li>
+    <li>muscular aches and pain</li>
+    <li>stiffness or reduced movement of a joint</li>
+    <li>general symptoms such as fatigue and feeling unwell.</li>
+</ul>
+</p>
+
+</body>
+</html>

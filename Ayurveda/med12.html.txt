@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Stores in Kolkata</title>
+</head>
+<style>
+    body {
+        font-family: "Monotype Corsiva", cursive;
+        background-image: url('img.avif');
+        background-size: cover; 
+       
+      }
+    </style>
+    <p>Translate this page:</p>
+
+    <div id="google_translate_element"></div>
+    
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+    </script>
+    
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <h2>1.Ayusya Ayurvedic </h2> 
+    <h3>Address:</h3>
+    <p>Ground Floor, 7, Suren Tagore Rd, Falguni Sangha, Ekdalia, Gariahat, Kolkata, West Bengal 700019</p>
+    <h3>Contact:</h3>
+    <p>Phone:098315 52258</p>
+
+    <h2>2.AYURVEDIC MEDICINE</h2> 
+    <h3>Address:</h3>
+    <p> 522, Diamond Harbour Rd, Vidyasagar Park, Behala, Kolkata, West Bengal 700034</p> 
+    <h3>Contact:</h3> 
+    <p>Phone:  062907 68799</p>
+
+    <h2>3.Naturoveda Health</h2> 
+    <h3>Address:</h3>
+    <p>116, Chittaranjan Avenue, Near Naturoveda Bhawan, Kolkata, West Bengal 700073</p>
+    <h3>Contact:</h3>
+    <p>Phone: 033 4040 1212</p>
+
+    <h2>4.Ayurved aushadhalaya</h2> 
+    <h3>Address:</h3>
+    <p>metro, 52A, Hari Ghosh St, near sovabajar, Sovabazar, Darjipara, Shobhabazar, Kolkata, West Bengal 700006</p>
+    <p>Phone:075969 38133</p>
+
+    <h2>5.Ayurvedic and Unani</h2> 
+    <h3>Address:</h3>
+    <p>57/1D,Topsia Road (south), Kolkata, West Bengal 700046</p>
+    <h3>Contact:</h3>
+    <p>Phone:  090071 96505</p>
+
+</body>
+</html>

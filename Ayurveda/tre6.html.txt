@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {
+            font-family: "Monotype Corsiva", cursive;
+            background-image: url('img.avif');
+            background-size: cover; 
+           
+          }
+        </style>
+<h1>Paralysis</h1>
+<h2>Treatment for Paralysis</h2>
+<p>Ayurvedic Treatment for Paralysis mainly focuses on helping a paralysed person
+    adapt to life by making them as independent as possible. Paralysis in Ayurveda is
+    called as Pakshaghat which is one of the Vata vyadhis mentioned in the classical
+    texts. Ayurvedic treatment for Paralysis consists of several types of massages
+    that relax the muscles and stimulate nerves. Therapies that  correct vata Doshas
+    also are also considered as important Ayurvedic treatment for Paralysis.
+</p>
+<h2>Symptoms of paralysis</h2>
+<p>Paralysis impairs the muscle power and thus may result in total or partial
+    immobility. Even if it is a partial Paralysis it has a significant effect on the other
+    systems in the body. The common signs and symptoms of Paralysis include,
+    <ul>
+    <li>Changes to circulation and respiration</li>
+   <li>Muscle spasms</li>
+    <li>Changes to muscles, joints, and bones</li>
+    <li>Disruption of the normal working of the tissues, glands, and organs</li>
+    <li>Abnormal breathing or heart rate</li>
+</ul>
+</p>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {
+            font-family: "Monotype Corsiva", cursive;
+            background-image: url('img.avif');
+            background-size: cover; 
+           
+          }
+        </style>
+<h1>Frozen Shoulder</h1>
+<h2>Treatment for Frozen Shoulder</h2>
+<p>Frozen shoulder, also called adhesive capsulitis, is a condition that causes
+    severe shoulder pain and stiffness making it difficult to move the shoulder.
+    Initially it starts with a shoulder pain that lasts for months and increases in
+    severity with time. Ayurvedic treatments for Frozen Shoulder include therapies
+    such as abhyangam, kizhi, pizhichil, nasyam, and basti.
+</p>
+<h2>Symptoms of frozen shoulder</h2>
+<p>Frozen shoulder develops over time with main symptom being pain and stiffness
+    in shoulder region. People with Frozen Shoulder also report inability to move the
+    shoulder.
+    Common symptoms of frozen shoulder,
+    <ul>
+    <li>Severe pain</li>
+   <li>Pain on moving the shoulder in initial stage</li>
+    <li>Hormonal changes especially in menopause</li>
+    <li>Difficulty moving the shoulder in later stage</li>
+</ul>
+</p>
+
+</body>
+</html>

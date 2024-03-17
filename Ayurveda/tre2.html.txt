@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {
+            font-family: "Monotype Corsiva", cursive;
+            background-image: url('img.avif');
+            background-size: cover; 
+           
+          }
+        </style>
+<h1>Asthma</h1>
+<h2>Treatment for asthma</h2>
+<p>Asthma can be well controlled with the appropriate medication in most people. The main types of
+    medications used to control asthma are:
+    <ul>
+    <li><b>Relievers-</b> that act quickly to relax the muscles around the airways. This is the medication
+        used during an asthma attack.</li>
+   <li><b>Preventers-</b>that slowly make the airways less sensitive to triggers and reduce
+    inflammation inside the airways. They are taken daily to help keep you well.</li>
+    <li><b>Combination therapies-</b>that are preventers containing 2 or 3 different medicines.</li>
+    <li><b>Add-on medications-</b> that help manage severe asthma. This includes monoclonal
+        antibodies.</li>
+</ul>
+</p>
+<h2>Symptoms of asthma</h2>
+<p>Asthma tends to run in families. Asthma affects everyone differently, and 2 children from the same
+    family can have different asthma patterns and triggers.
+    Typical asthma symptoms include:
+    <ul>
+    <li>wheezing-a whistling noise when breathing</li>
+   <li>shortness of breath</li>
+    <li>a tight feeling in the chest</li>
+    <li>coughing.</li>
+</ul>
+</p>
+
+</body>
+</html>

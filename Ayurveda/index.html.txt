@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>Ayurveda </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-instagram {
+  background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+  color: white;
+}
+.fa-whatsapp {
+  background: #90EE90;
+  color: white;
+}
+.fa-envelope {
+  background: #808080;
+  color: red;
+}
+
+</style>
+  <style>
+    body {
+      font-family: Arial;
+      margin: 0;
+      padding: 0;
+      color:#9ea2a2;
+      font-size: 20px;
+    }
+    header {
+   
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    .logo {
+      text-align: center;
+
+    }
+    .logo img {
+      float:left;
+      max-width: 200px;
+      height: 90px;
+    }
+    .container {
+            width: 100%;
+            height: 100px; /* Adjust the height as needed */
+            text-align: right; /* Align text and icons to the right */
+            padding: 10px; /* Add some padding for spacing */
+            background-color: #958a8a;
+        }
+
+        /* Style the icons (you can customize this) */
+        .icon {
+            font-size: 30px;
+            margin-left: 10px; /* Add some spacing between icons */
+            background-color:#958a8a;
+        }
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  background-color:#f1f1f1;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+   /* h1 {
+      margin: 0;
+      background-image: url('LRS.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+    }*/
+    nav {
+     
+      padding: 10px;
+      text-align: center;
+      background-color:#958a8a;
+    }
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      display:inline;
+      margin-right: 10px;
+    }
+    main {
+      padding: 20px;
+    }
+    footer {
+      background-color: #13c219;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+  
+</head>
+
+<style>
+  body {
+    font-family: "Monotype Corsiva", cursive;
+    background-image: url('Background.jpg');
+    background-size: cover; /* Optional: adjust the background size */
+    /*background-repeat: no-repeat;  Optional: prevent image from repeating */
+  }
+</style>
+
+<p>Translate this page:</p>
+
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+<div class="container">
+  
+  <a href="https://wa.me/6374607024" >&#x260E; Call us:6374607024</a>
+  <a href="https://wa.me/6374607024" class="fa fa-whatsapp"></a>
+  
+  <a href = "mailto: ayurmeds815@gmail.com">
+  <i class="fa fa-envelope"></i></a>
+  
+  <a href="https://www.instagram.com/ayurvedic_meds_" class="fa fa-instagram"></a>
+</div>
+  <header>
+    <div style="text-align: center;">
+      <img src="logo.JPG" alt="Logo" width="700" height="300">
+    </div>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="index1.html">Common Diseases</a></li>
+      <li class="dropdown">
+        <a href="javascript:void(0)" class="dropbtn">Medicines</a>
+        <div class="dropdown-content">
+          <a href="age1.html">Children (Below 12)</a>
+          <a href="age2.html">Younsters (Above 12)</a>
+          <a href="age3.html">Adults (More than 40)</a>
+        </div>
+      </li>
+      <li><a href="index2.html">Treatments</a></li>
+      <li><a href="index3.html">Doctor Consultation</a></li>
+      <li><a href="index4.html">Medical Stores</a></li>
+      <li><a href="index5.html">Diet Plan</a></li>
+
+    </ul>
+  </nav>
+  
+  <main>
+   
+    <p></p>Ayurveda, a natural system of medicine, originated in India more than 3,000 years ago. The term Ayurveda is derived from 
+        the Sanskrit words ayur (life) and veda (science or knowledge). Thus, Ayurveda refers to knowledge of life.
+         Based on the idea that disease is due to an imbalance or stress in a person's consciousness, Ayurveda encourages 
+         certain lifestyle interventions and natural therapies to regain a balance between the body, mind, spirit, and the environment.
+
+            Ayurveda treatment starts with an internal purification process, followed by a special diet,
+ herbal remedies, massage therapy, yoga, and meditation.
+
+            The concepts of universal interconnectedness, the body's constitution (prakriti), and life forces 
+(doshas) are the primary basis of ayurvedic medicine. Goals of treatment aid the person by eliminating impurities,
+ reducing symptoms, increasing resistance to disease, reducing worry, and increasing harmony in life. Herbs and other plants,
+  including oils and common spices, are used extensively in Ayurvedic treatment. 
+   <br>
+   <h2><b><u>Benefits of Using Ayurveda</u></b></h2>
+<h4><u> Holistic Healing:</u></h4> Ayurvedic medicines aim to treat the root causes of health issues by addressing the physical, mental, and emotional aspects of an individual's well-being. They take a holistic approach to health.
+ <h4><u>Personalized Treatment:</u></h4> Ayurvedic medicines are often tailored to an individual's unique constitution (Prakriti) and imbalances (Vikriti). This personalized approach can lead to more effective outcomes.
+ <h4><u>Natural and Safe:</u></h4>Ayurvedic medicines are primarily made from natural ingredients, reducing the risk of adverse side effects commonly associated with synthetic medications.
+ <h4><u>Preventive Health:</u></h4> Ayurvedic medicines can be used for preventive purposes, helping individuals maintain good health and prevent diseases through lifestyle and dietary adjustments.
+ <h4><u>Management of Chronic Conditions:</u></h4> Ayurvedic medicines may be effective in managing chronic conditions such as arthritis, diabetes, digestive disorders, and skin ailments. They aim to alleviate symptoms and improve overall well-being.
+ <h4><u>Balanced Digestion:</u></h4> Ayurveda places a strong emphasis on optimizing digestion (Agni) through dietary guidelines and herbal remedies, which is considered essential for overall health.
+ <h4><u>Detoxification:</u></h4> Ayurvedic therapies and medicines are used for detoxification and purification, helping to eliminate toxins (Ama) from the body and restore balance.
+ <h4><u>tress Management:</u></h4> Ayurvedic medicines, along with practices like yoga, meditation, and Pranayama (breathing exercises), can help manage stress and promote mental and emotional well-being.
+ <h4><u>Herbal Formulations:</u></h4> Ayurvedic medicines incorporate a wide range of herbs and natural substances, each with specific properties and therapeutic benefits. These herbs are often combined in unique formulations to target specific health issues.
+ <h4><u>Non-Invasive Therapies:</u></h4> Ayurvedic therapies, including herbal massages, oil treatments, and steam baths, are non-invasive and promote relaxation and rejuvenation.
+ <h4><u>Improved Energy and Vitality:</u></h4> Ayurvedic medicines aim to balance the body's energies (Doshas) to enhance vitality, energy levels, and overall wellness.
+ <h4><u>Cultural and Spiritual Connection:</u></h4> Ayurveda is deeply rooted in Indian culture and philosophy, providing a spiritual dimension to health and healing for those who resonate with it.
+ <h4><u>Fewer Side Effects:</u></h4> Ayurvedic medicines are generally considered safe when used correctly and under the guidance of a qualified practitioner. They are less likely to cause adverse effects compared to some pharmaceutical drugs.
+ <h4><u>Complementary Therapy:</u></h4> Ayurvedic medicines can complement conventional medical treatments and may be integrated into a holistic healthcare approach.
+ 
+</p>
+  </main>
+  
+</body>
+</html>

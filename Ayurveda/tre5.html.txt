@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {
+            font-family: "Monotype Corsiva", cursive;
+            background-image: url('img.avif');
+            background-size: cover; 
+           
+          }
+        </style>
+<h1>Eczema (atopic dermatitis)</h1>
+<h2>Treatment for eczema</h2>
+<p>Treatment options for eczema include:
+    <ul>
+        <li>anti-inflammatory ointments-either topical corticosteroids or non-steroidal anti-inflammatory
+            ointments such as pimecrolimus</li>
+        <li>ultraviolet radiation therapy (phototherapy)</li>
+        <li>coal tar-to reduce the itch</li>
+        <li>oral medication (tablets).</li>
+        
+    </ul>
+</p>
+<h2>Symptoms of eczema</h2>
+<p>The physical effects of eczema can include:
+    <ul>
+    <li>skin dryness</li>
+   <li>red and scaly areas on the front of the elbows and the back of the knees</li>
+    <li>watery fluid weeping from affected skin</li>
+    <li>itchiness</li>
+    <li>lesions (sores) that may become infected by bacteria or viruses.</li>
+</ul>
+</p>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Stores in Pondicherry</title>
+</head>
+<style>
+    body {
+        font-family: "Monotype Corsiva", cursive;
+        background-image: url('img.avif');
+        background-size: cover; 
+       
+      }
+    </style>
+    <p>Translate this page:</p>
+
+    <div id="google_translate_element"></div>
+    
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+    </script>
+    
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <h2>1.Keralaa Ayurveda</h2> 
+    <h3>Address:</h3>
+    <p>#27, Muthu Mariamman Kovil St, Viratipatu, Heritage Town, Puducherry, 605001</p>
+    <h3>Contact:</h3>
+    <p>Phone:099764 53434</p>
+
+    <h2>2.SIDDHA AYURVEDA PHARMACY</h2> 
+    <h3>Address:</h3>
+    <p>71, Lenin St, opp. to Krisha Nursing Home, Naveena Garden, Kuyavarpalayam, Puducherry, 605013</p> 
+    <h3>Contact:</h3> 
+    <p>Phone: 094430 75141</p>
+
+    <h2>3.KOTTAKKAL ARYA VAIDYA SALA</h2> 
+    <h3>Address:</h3>
+    <p>No 114, Montorsier St, MG Road Area, Puducherry, 605001</p>
+    <h3>Contact:</h3>
+    <p>Phone:  0483 280 8000</p>
+
+    <h2>4.Ayuroushadham</h2> 
+    <h3>Address:</h3>
+    <p>NO.307, Ground Floor, Mission St, opp., to Saint Anthony Chapel, White Town, Puducherry, 605001</p>
+    <p>Phone:090470 25690</p>
+
+    <h2>5.SANTHIGIRI AYURVEDA</h2> 
+    <h3>Address:</h3>
+    <p>No.6, Sardar Vallabhai Patel Salai, near acharya school, Heritage Town, Puducherry, 605001</p>
+    <h3>Contact:</h3>
+    <p>Phone:   0413 222 5898</p>
+
+</body>
+</html>

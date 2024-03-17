@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Stores in Coimbatore</title>
+</head>
+<style>
+  body {
+    font-family: "Monotype Corsiva", cursive;
+      background-image: url('img.avif');
+      background-size: cover; 
+     
+    }
+  </style>
+    <p>Translate this page:</p>
+
+    <div id="google_translate_element"></div>
+    
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+    </script>
+    
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <h2>1.SREE AYUSH Ayurvedic, siddha , homeo pharmacy</h2> 
+    <h3>Address:</h3>
+    <p>393, Sukrawarpet St, Town Hall, Coimbatore, Tamil Nadu 641001</p>
+    <h3>Contact:</h3>
+    <p>Phone: 093857 67240</p>
+
+    <h2>2.HERBAL MEDICINES</h2> 
+    <h3>Address:</h3>
+    <p>H.M.Finance,Suresh Finance 190, Sukrawarpet, Coimbatore, Tamil Nadu 641001</p>
+
+    <h2>3.Parrys Golden Herb Shop</h2> 
+    <h3>Address:</h3>
+    <p>14,Ramalinga Nagar,Kuppakonanpudur, Coimbatore,Tamil Nadu</p>
+    <h3>Contact:</h3>
+    <p>Phone: 09365844328</p>
+
+    <h2>4.The Arya Vaidya Sala</h2> 
+    <h3>Address:</h3>
+    <p>173/14,Karpagam Complex,NSR Road,Sai Baba Colony, Coimbatore, Tamil Nadu 641011</p>
+    <h3>Contact:</h3>
+    <p>Phone: 04222436369</p>
+
+    <h2>5.Himalaya Herbal Healthcare</h2> 
+    <h3>Address:</h3>
+    <p>432,Harmony Building,DB Road,Rathinasabapathy Puram,Coimbatore,Tamil Nadu 641002</p>
+    <h3>Contact:</h3>
+    <p>Phone: 04222477173</p>
+
+</body>
+</html>

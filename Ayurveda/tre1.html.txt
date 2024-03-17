@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {
+            font-family: "Monotype Corsiva", cursive;
+            background-image: url('img.avif');
+            background-size: cover; 
+           
+          }
+        </style>
+<h1>Anxiety</h1>
+<h2>Recovery is possible with treatment</h2>
+<p>Recovery from an anxiety disorder is possible with the right treatment and support. Effective
+    treatments for anxiety disorders may include:
+    <ul>
+    <li><b>Cognitive behavioural therapy-</b> aims to change patterns of thinking, beliefs and
+    behaviours that may trigger anxiety.</li>
+   <li><b>Exposure therapy-</b>involves gradually exposing a person to situations that trigger anxiety
+    using a fear hierarchy: this is called systematic desensitisation.</li>
+    <li><b>Anxiety management and relaxation techniques-</b>for example deep muscle relaxation,
+    meditation, breathing exercises and counselling.</li>
+    <li><b>Medication-</b> this may include antidepressants and benzodiazepines.</li>
+</ul>
+</p>
+<h2>Symptoms of anxiety disorders</h2>
+<p>The main features of an anxiety disorder are fears or thoughts that are chronic (constant) and
+    distressing and that interfere with daily living. Other symptoms of an anxiety disorder may include:
+    <ul>
+    <li>Panic or anxiety attacks or a fear of these attacks.</li>
+   <li>Physical anxiety reactions – for example trembling, sweating, faintness, rapid heartbeat,
+    difficulties breathing or nausea.</li>
+    <li>Avoidance behaviour – a person may go to extreme lengths to avoid a situation that they
+        think could bring on anxiety or panic.</li>
+</ul>
+</p>
+
+</body>
+</html>

@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Common Diseases and Ayurvedic Medicines</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #333;
+        }
+        .disease {
+            border: 1px solid #ccc;
+            margin: 10px;
+            padding: 10px;
+        }
+        .disease h2 {
+            color: #555;
+        }
+        .medicines {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<style>
+body {
+    font-family: "Monotype Corsiva", cursive;
+    background-image: url('img.avif');
+    background-size: cover; 
+   
+  }
+</style>
+<p>Translate this page:</p>
+
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <h1>Common Diseases and Ayurvedic Medicines</h1>
+    
+    <div class="disease">
+        <h2>Common Cold(Pratishyaya)</h2>
+        <div class="medicines">
+            <ul>
+                <li>Tulsi (Holy Basil)</li>
+                <li>Ginger</li>
+                <li>Black Pepper</li>
+                <li>Triphala</li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="disease">
+        <h2>Fever(Jwara)</h2>
+        <div class="medicines">
+            <ul>
+                <li>Tulsi (Holy Basil)</li>
+                <li>Giloy (Tinospora Cordifolia)</li>
+                <li>Neem</li>
+                <li>Sitopaladi Churna</li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="disease">
+        <h2>Leg Pain(Pada Shoola)</h2>
+        <div class="medicines">
+            <ul>
+                <li>Yogaraj Guggulu</li>
+                <li>Mahanarayan Oil</li>
+                <li>Ashwagandha</li>
+                <li>Triphala</li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="disease">
+        <h2>Hand Pain(Hasta Shoola)</h2>
+        <div class="medicines">
+            <ul>
+                <li>Shallaki (Boswellia Serrata)</li>
+                <li>Dashmool (a mixture of ten roots)</li>
+                <li>Castor Oil</li>
+                <li>Bala (Sida Cordifolia)</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="disease">
+        <h2>Vomiting(Chardi)</h2>
+        <div class="medicines">
+            <ul>
+                <li>Mint Leaves</li>
+                <li>Ginger</li>
+                <li>Cumin (Jeera)</li>
+                <li>Fennel (Saunf)</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="disease">
+        <h2>Cough(Kasa)</h2>
+        <div class="medicines">
+            <ul>
+                <li>Turmeric</li>
+                <li>Adhatoda Vasica (Vasaka)</li>
+                <li>Triphala</li>
+                <li>Kantakari (Solanum Xanthocarpum)</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="disease">
+        <h2>Tooth Pain(Danta Shoola)</h2>
+        <div class="medicines">
+            <ul>
+                <li>Cloves</li>
+                <li>Neem</li>
+                <li>Triphala</li>
+                <li>Licorice (Mulethi)</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="disease">
+        <h2>Skin Infection(Tvak Vikara)</h2>
+        <div class="medicines">
+            <ul>
+                <li>Neem</li>
+                <li>Turmeric</li>
+                <li>Aloe Vera</li>
+                <li>Manjistha (Rubia Cordifolia)</li>
+            </ul>
+        </div>
+        <div class="disease"></div>
+        <h2>Indigestion(Agnimandya)</h2>
+        <div class="medicines">
+            <ul>
+                <li>Ajwain (Carom Seeds)</li>
+                <li>Jeera (Cumin Seeds)</li>
+                <li>Haritaki</li>
+                <li>Guduchi (Tinospora Cordifolia)</li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="disease">
+        <h2>Migraine Headache(Agnimandya)</h2>
+        <div class="medicines">
+            <ul>
+                <li>Peppermint Oil</li>
+                <li>Brahmi (Bacopa Monnieri)</li>
+                <li>Lavender Oil</li>
+                <li>Shankhpushpi (Convolvulus Pluricaulis)</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

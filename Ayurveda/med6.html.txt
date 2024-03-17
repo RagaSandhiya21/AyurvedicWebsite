@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Stores in Delhi</title>
+</head>
+<style>
+    body {
+        font-family: "Monotype Corsiva", cursive;
+        background-image: url('img.avif');
+        background-size: cover; 
+       
+      }
+    </style>
+    <p>Translate this page:</p>
+
+    <div id="google_translate_element"></div>
+    
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+    </script>
+    
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <h2>1.Jain Ayurved & Homeo</h2> 
+    <h3>Address:</h3>
+    <p>E-2/16, New Delhi Main Rd, near Shani Mandir, Block E, Malviya Nagar, New Delhi, Delhi 110017</p>
+    <h3>Contact:</h3>
+    <p>Phone:082876 86116</p>
+
+    <h2>2.Jagdamba Ayurvedic Shop</h2> 
+    <h3>Address:</h3>
+    <p>81- Riddhi Siddhi Complex, Vikas Marg, Vijay Block, Laxmi Nagar, Delhi, 110092</p> 
+    <h3>Contact:</h3> 
+    <p>Phone: 088001 96605</p>
+
+    <h2>3.Goyal Ayurvedic Store</h2> 
+    <h3>Address:</h3>
+    <p> 12/1-B, Yusuf Sarai, Green Park Extension, Block Q, Green Park Extension, Green Park, New Delhi, Delhi 110016</p>
+    <h3>Contact:</h3>
+    <p>Phone: 098731 22428</p>
+
+    <h2>4.Gopal Store</h2> 
+    <h3>Address:</h3>
+    <p> 1714, Gurudwara Rd, South Extension I, Mahaveer Nagar, Kotla Mubarakpur, New Delhi, Delhi 110003</p>
+    <h3>Contact:</h3>
+    <p>Phone: 098105 24934</p>
+
+    <h2>5.Om Ayurvedic & Medicine Centre</h2> 
+    <h3>Address:</h3>
+    <p>486/6, Subhash Bazar Rd, Subhash Bazar, Shiv Nagar, Kotla Mubarakpur, New Delhi, Delhi 110003</p>
+    <h3>Contact:</h3>
+    <p>Phone:  011 2463 5972</p>
+
+</body>
+</html>

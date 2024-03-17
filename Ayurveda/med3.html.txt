@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical in Salem</title>
+</head>
+<style>
+  body {
+    font-family: "Monotype Corsiva", cursive;
+      background-image: url('img.avif');
+      background-size: cover; 
+     
+    }
+    
+  </style>
+    <p>Translate this page:</p>
+
+    <div id="google_translate_element"></div>
+    
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+    </script>
+    
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <h2>1.VISWANATHAN AYUSH MEDICAL AGENCIES</h2> 
+    <h3>Address</h3>
+    <p>Address:4, srinivasa complex, 165, Omalur Main Rd, Ram Nagar, Swarnapuri, Salem, Tamil Nadu 636004</p>
+    <h3>Contact</h3>
+    <p>Phone:  0427 233 2775</p>
+
+    <h2>2.Ayurvedic Medicine Shop</h2> 
+    <h3>Address</h3>
+    <p>1/301 SVR Nagar Weavers Colony, Post, Dadagapatty, Salem,Tamil Nadu 636006</p>
+    <h3>Contact</h3>
+    <p>Phone: :9456789451</p>
+
+    <h2>3.Patanjali Ayurvedic Centre</h2> 
+    <h3>Address</h3>
+    <p>Capital Towers, 2nd, Peramanur Main Rd, Peramanur, Salem, Tamil Nadu 636007</p>
+    <h3>Contact</h3>
+    <p>Phone: 080723 02604</p>
+
+
+</body>
+</html>

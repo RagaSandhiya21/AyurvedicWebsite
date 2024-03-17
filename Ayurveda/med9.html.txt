@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Stores in Mumbai</title>
+</head>
+<style>
+    body {
+        font-family: "Monotype Corsiva", cursive;
+        background-image: url('img.avif');
+        background-size: cover; 
+       
+      }
+    </style>
+    <p>Translate this page:</p>
+
+    <div id="google_translate_element"></div>
+    
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+    </script>
+    
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <h2>1.Atul Ayurvedic Medical Stores</h2> 
+    <h3>Address:</h3>
+    <p>Suvas, 39, Hanuman Rd, Satsang CHSL, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400057</p>
+    <h3>Contact:</h3>
+    <p>Phone:022 2614 7182</p>
+
+    <h2>2. Gandhi's The Integral Ayurveda Clinic</h2> 
+    <h3>Address:</h3>
+    <p>Shop no. 4, Summer Villa, 7th Rd, opp. HDFC Bank CHS, T.P.S III, Sen Nagar, Santacruz East, Mumbai, Maharashtra 400055</p> 
+    <h3>Contact:</h3> 
+    <p>Phone: 099309 70373</p>
+
+    <h2>3.Maharashtra Ayurvedic & General Store</h2> 
+    <h3>Address:</h3>
+    <p>Shop No.1, Nitiyanand Nagar, Andheri East Skywalk, Sahar Rd, Railway Colony, Andheri East, Mumbai, Maharashtra 400069</p>
+    <h3>Contact:</h3>
+    <p>Phone: 087798 64831</p>
+
+    <h2>4.Birla Ayurveda Marine Lines</h2> 
+    <h3>Address:</h3>
+    <p> Shop no #1, Neelkhant Building Marine line (W) Mumbai, Mumbai, Maharashtra 400020</p>
+    <p>Phone:098204 35344 </p>
+
+    <h2>5.NuAyurveda Ayurvedic</h2> 
+    <h3>Address:</h3>
+    <p>Aangan Row House #4, Thakur Village, Kandivali(E), Mumbai – 400101, opp. Thakur college, Mumbai, Maharashtra 400101</p>
+    <h3>Contact:</h3>
+    <p>Phone: 085300 15447</p>
+
+</body>
+</html>
